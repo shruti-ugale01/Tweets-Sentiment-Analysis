@@ -6,5 +6,7 @@ This project aims to analyse the sentiment of tweets using Natural Language Proc
 
 <img width="491" height="712" alt="image" src="https://github.com/user-attachments/assets/85488e7f-5383-430c-96b7-f15307bed453" />
 
+
+
 <img width="475" height="260" alt="image" src="https://github.com/user-attachments/assets/39463b53-d0e3-445d-a94a-7cbd8284f48c" />
 
