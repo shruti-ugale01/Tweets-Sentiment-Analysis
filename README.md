@@ -4,6 +4,7 @@ With the rapid growth of social media platforms, people have found a powerful wa
 Sentiment analysis, also known as opinion mining, is a technique used to determine the emotional tone behind a body of text. It involves classifying text as positive, negative, or neutral. When applied to tweets, sentiment analysis can help organizations monitor brand perception, analyses customer feedback, and even predict social trends.
 This project aims to analyse the sentiment of tweets using Natural Language Processing (NLP) techniques and machine learning algorithms. The main objectives are to preprocess the tweet data, extract relevant features, and classify each tweet based on its sentiment. The analysis of this data can be valuable in understanding user behaviour, improving customer service, and making informed decisions in real-time.
 
+
 <img width="491" height="712" alt="image" src="https://github.com/user-attachments/assets/85488e7f-5383-430c-96b7-f15307bed453" />
 
 
